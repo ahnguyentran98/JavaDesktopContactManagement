@@ -1,0 +1,4 @@
+anh            :asdasda        :123       :asd@gmail.com            :2021-07-09:Friend    
+An             :Ha             :84123098345:AnHa@gmail.com           :0002-07-05:anhHH     
+gdfg           :qweqwe         :123432    :ab@gmail.com             :2021-07-09:Family    
+anh            :asdasda        :123       :asd@gmail.com            :2021-07-09:Friend    
